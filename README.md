@@ -16,7 +16,7 @@ git clone https://github.com/hypertonny/BNH-UDP-DDOS
 ```
 Now, get into the cloned directory: <p/>
 ```
-cd  
+cd BNH-UDP-DDOS
 ```
 And then, simply start the tool using python3 (arguments are still not supported, use the interactive interface instead) <p/>
 ```
