@@ -9,7 +9,7 @@ except ImportError as e:
     sys.exit()
 
 def random_phrase():
-    ppl = ["Near Shelby", "Sasaki", "sysb1n", "Gr3n0xX", "Quiliarca", "Lucazz Dev", "vl0ne-$", "Xernoboy", "marreta cabeça de rato", "S4SUK3"]
+    ppl = ["BNH"]
     phrase = ["was here", "is watching you", "knows your name", "knows your location", "hacked NASA", "hacked FBI", "hacked u", "is looking 4 u", "is right behind you", "has hype"]
     return random.choice(ppl) + " " + random.choice(phrase)
 
