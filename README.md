@@ -12,11 +12,11 @@ Power-DoS is a mini Denial Of Service tool. It features:
 
 Firstly, gitclone it: <p/>
 ```
-git clone https://github.com//Power-DoS.git
+git clone https://github.com/hypertonny/BNH-UDP-DDOS
 ```
 Now, get into the cloned directory: <p/>
 ```
-cd Power-DoS 
+cd  
 ```
 And then, simply start the tool using python3 (arguments are still not supported, use the interactive interface instead) <p/>
 ```
